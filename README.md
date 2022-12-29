@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [soyedariff@gmail.com](soyedariff@gmail.com)
+- 👨‍💻 Contact on my mail [soyedariff@gmail.com](soyedariff@gmail.com)
 
 - 💬 Ask me about **JavaScript, ReactJS, NodeJS**
 
