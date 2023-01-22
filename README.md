@@ -13,7 +13,7 @@
 
 - 👨‍💻 Contact on my mail [soyedariff@gmail.com](soyedariff@gmail.com)
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS**
+- 💬 Ask me about: **JavaScript, ReactJS, NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
